@@ -1,6 +1,6 @@
 ---
 title: "git_01"
-author: "Math_116"
+author: "Jose Trejo"
 date: "Fall semester"
 output: html_document
 ---
@@ -22,9 +22,16 @@ This is verse 1
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
- 
+
+
+This is verse 2
+
+
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+This is verse 3
 
 ## Last Verse
 
